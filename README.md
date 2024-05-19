@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Expansão do Podcast: 🌵 "Pistoleiros da Informação: Dominando a Fronteira dos Dados"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto visa expandir o podcast criado nas aulas anteriores metradas pelo "Felipão" da DIO.me, adicionado uma introdução anterior ao podcast, e um segundo episódio abordando outros temas. Mantendo os mesmos padrões.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[🤖 ChatGPT](https://chat.openai.com) para criação de roteiros e títulos; <br><br>
+[🎨 Copilot](https://copilot.microsoft.com/) para geração de conteúdo;<br><br>
+[✂️ CapCut](https://www.capcut.com/) para edição do podcast, adição de áudios e imagens;<br><br>
+[🔃 FreeConvert](https://www.freeconvert.com/) para compactação dos arquivos.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando como base o projeto de criação de podcasts com AI, alterei os <i>prompts</i> do ChatGPT com base nas ideias de uma introdução e um episódio complementar ao primeiro.
+
+Para a imagem de capa, pensei em simbolizar o n.º 2 com a adição de um segundo <i>cowboy</i> a ela.
+
+Seguindo a temática aplicada de faroeste, adicionei músicas características de fundo durante todo o podcast.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os resultados podem ser verificados nas pastas <i>[output]()</i>, <i>[source]()</i> e <i>[prompts]()</i>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É um projeto interessante, porém, por se tratar de uma tecnologia emergente é perceptível em alguns detalhes quando a AI é utilizado e quando não, principalmente quando o comportamento humano é simulado. Algo que não acontece com imagens.<br>
+Entretanto, com o tempo, certamente isso mudará e teremos uma grande dificuldade em separar o real da criação fictícia.
