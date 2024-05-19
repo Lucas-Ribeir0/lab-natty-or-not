@@ -18,7 +18,7 @@ Para a imagem de capa, pensei em simbolizar o n.º 2 com a adição de um segund
 Seguindo a temática aplicada de faroeste, adicionei músicas características de fundo durante todo o podcast.
 
 ## 🚀 Resultados
-Os resultados podem ser verificados nas pastas <i>[output]()</i>, <i>[source]()</i> e <i>[prompts]()</i>
+Os resultados podem ser verificados nas pastas <i>[output](https://github.com/Lucas-Ribeir0/lab-natty-or-not/tree/main/output)</i>, <i>[assets](https://github.com/Lucas-Ribeir0/lab-natty-or-not/tree/main/assets)</i> e <i>[prompts](https://github.com/Lucas-Ribeir0/lab-natty-or-not/tree/main/src/prompts)</i>
 
 ## 💭 Reflexão (Opcional)
 É um projeto interessante, porém, por se tratar de uma tecnologia emergente é perceptível em alguns detalhes quando a AI é utilizado e quando não, principalmente quando o comportamento humano é simulado. Algo que não acontece com imagens.<br>
